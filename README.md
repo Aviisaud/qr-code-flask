@@ -1,4 +1,5 @@
 # Flask QR Code Generator
+![QR Code Generator](qr-code.jpg)
 
 This is a simple Flask web application that generates QR codes based on user input.
 
