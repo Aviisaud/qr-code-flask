@@ -6,11 +6,11 @@
 
 {% block content %}
 <div class="row mt-5">
-    <div class="col-md-6 offset-md-3 text-center">
+    <div class="col-md-6 offset-md-3 pt-4 text-center">
         <h2>QR Code Generator</h2>
         <form action="{{ url_for('generate_qr_code') }}" method="post">
             <div class="form-group">
-                <label for="data">Enter data:</label>
+                <label for="data">Enter data</label>
                 <input type="text" class="form-control" id="data" name="data" placeholder="Enter your data here">
             </div>
             <button type="submit" class="btn btn-primary">Generate QR Code</button>
