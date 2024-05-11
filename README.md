@@ -11,7 +11,7 @@ This is a simple Flask web application that generates QR codes based on user inp
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/yourusername/your-repository.git
+1. Clone the repository: git clone https://github.com/Aviisaud/qr-code-flask.git
 
 2. Install the required dependencies using pip: pip install -r requirements.txt
 
